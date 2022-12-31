@@ -1,0 +1,516 @@
+
+/*Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+    .hide-sm {
+        display: none;
+    }
+    button.btn.bg-btn {
+       
+        font-size: 12px;
+     
+    }
+    a.navbar-brand svg {
+        width: 88px;
+    }
+    .header-button-area {
+        width: 48% !important;
+        margin-left: 9px;
+    }
+    .drop-menu-inner {
+        padding: 6px 23px;
+        display: block !important;
+    }
+    .dropdown-menu {
+        width: 476px !important;
+        padding-right: 0;
+        border: none !important;
+    }
+    .offcanvas-start-lg {
+       
+        width: 480px;
+    }
+
+    .menu-inner-icon {
+        
+        float: left;
+    }
+    .navbar-toggler:focus {
+    
+        box-shadow: none !important;
+    }
+    .hero-text-area {
+       
+        text-align: center;
+    }
+    .hero-text-area h1 {
+        font-size: 26px;
+        
+    }   
+    .hero-text-area {
+        margin-top: 0;
+    }
+    .hero-text-area p {
+        font-size: 17px;
+   
+        padding-right: 0;
+    }
+    .section-padding {
+        padding: 44px 15px;
+    }
+    .section-title h2 {
+        font-size: 24px;
+        margin-bottom: 19px;
+    }
+
+    .model-area-top {
+        display: inherit !important;
+        text-align: center;
+    }
+    .load-more {
+     
+        border: 1px solid red;
+        display: block;
+        width: 133px;
+        margin: 20px auto;
+        height: 42px;
+        line-height: 41px;
+    }
+
+    .model-area-top_right {
+        padding: 0;
+       
+       
+    }
+    p.more {
+       
+        margin: 12px 0;
+       
+    }
+    .work-info h3 {
+        
+        font-size: 12px;
+        
+    }
+
+    .brand-logo img {
+        width: 25px !important;
+        height: 25px !important;
+       
+    }
+
+    .profile-counter h2 {
+       
+        font-size: 36px;
+    
+    }
+    .profile-counter h3 {
+        font-size: 18px;
+       
+    }
+    .single-profile-box {
+
+        padding-top: 51px;
+        padding-bottom: 35px;
+     
+        margin-bottom: 24px;
+    }
+
+    .single-brand-box {
+        padding: 35px 0;
+     
+    }
+    .earning-text p {
+      
+        margin-top: 0;
+        margin-right: 0;
+    }
+    .earning-calculator .section-title {
+        margin-top: 0;
+    }
+    .earning-calculator.section-padding {
+        text-align: center;
+    }
+    .earning-text p {
+        
+        font-size: 16px;
+       
+    }
+    .app-download {
+     
+        text-align: center;
+    }
+    .box-form {
+        text-align: left;
+    }
+    .box_two:after, .box-four:after {
+       
+        border-right: 0px solid #fff;
+      
+    }
+
+    .app-banner {
+        margin-bottom: -43px;
+        margin-left: 0;
+    
+    }
+    .app-text h2 {
+        font-weight: 700;
+        font-size: 28px;
+        color: #1e1f24;
+        margin-bottom: 20px;
+    }
+    .app-text {
+        margin-top: 0;
+    }
+    .card-body figure {
+        position: inherit;
+        padding: 10px;
+        left: 0;
+        margin-top: -116px;
+    }
+    .card-body figure {
+      
+      
+        height: 424px;
+      
+    }
+    blockquote.blockquote p {
+      
+        font-size: 20px;
+        line-height: 28px;
+        margin-top: 33px;
+    }
+
+    .blockquote-footer h4 {
+        font-size: 18px;
+        margin-top: -44px;
+        line-height: 20px;
+    }
+    figcaption.blockquote-footer p {
+        line-height: 13px;
+     
+        font-size: 14px;
+       
+    }
+    .footer-logo-area {
+        text-align: center;
+    }
+    .footer-logo-text {
+        margin-right: 0px; 
+   
+       
+        text-align: center;
+    }
+    .social-area {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    
+
+  
+
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    
+    .hide-sm {
+        display: none;
+    }
+    button.btn.bg-btn {
+       
+        font-size: 12px;
+     
+    }
+    a.navbar-brand svg {
+        width: 88px;
+    }
+    .header-button-area {
+        width: 32% !important;
+        margin-left: 101px;
+    }
+    .drop-menu-inner {
+        padding: 6px 23px;
+        display: block !important;
+    }
+    .dropdown-menu {
+        width: 476px !important;
+        padding-right: 0;
+        border: none !important;
+    }
+    .offcanvas-start-lg {
+       
+        width: 480px;
+    }
+
+    .menu-inner-icon {
+        
+        float: left;
+    }
+    .navbar-toggler:focus {
+    
+        box-shadow: none !important;
+    }
+    .hero-text-area {
+       
+        text-align: center;
+    }
+    .hero-text-area h1 {
+        font-size: 26px;
+        
+    }   
+    .hero-text-area {
+        margin-top: 0;
+    }
+    .hero-text-area p {
+        font-size: 17px;
+   
+        padding-right: 0;
+    }
+    .section-padding {
+        padding: 44px 15px;
+    }
+    .section-title h2 {
+        font-size: 24px;
+        margin-bottom: 19px;
+    }
+
+    .model-area-top {
+        display: inherit !important;
+        text-align: center;
+    }
+    .load-more {
+     
+        border: 1px solid red;
+        display: block;
+        width: 133px;
+        margin: 20px auto;
+        height: 42px;
+        line-height: 41px;
+    }
+
+    .model-area-top_right {
+        padding: 0;
+       
+       
+    }
+    p.more {
+       
+        margin: 12px 0;
+       
+    }
+    .work-info h3 {
+        
+        font-size: 12px;
+        
+    }
+
+    .brand-logo img {
+        width: 25px !important;
+        height: 25px !important;
+       
+    }
+
+    .profile-counter h2 {
+       
+        font-size: 36px;
+    
+    }
+    .profile-counter h3 {
+        font-size: 18px;
+       
+    }
+    .single-profile-box {
+
+        padding-top: 51px;
+        padding-bottom: 35px;
+     
+        margin-bottom: 24px;
+    }
+
+    .single-brand-box {
+        padding: 35px 0;
+     
+    }
+    .earning-text p {
+      
+        margin-top: 0;
+        margin-right: 0;
+    }
+    .earning-calculator .section-title {
+        margin-top: 0;
+    }
+    .earning-calculator.section-padding {
+        text-align: center;
+    }
+    .earning-text p {
+        
+        font-size: 16px;
+       
+    }
+    .app-download {
+     
+        text-align: center;
+    }
+    .box-form {
+        text-align: left;
+    }
+    .box_two:after, .box-four:after {
+       
+        border-right: 0px solid #fff;
+      
+    }
+
+    .app-banner {
+        margin-bottom: -43px;
+        margin-left: 0;
+    
+    }
+    .app-text h2 {
+        font-weight: 700;
+        font-size: 28px;
+        color: #1e1f24;
+        margin-bottom: 20px;
+    }
+    .app-text {
+        margin-top: 0;
+    }
+    .card-body figure {
+        position: inherit;
+        padding: 10px;
+        left: 0;
+        margin-top: -116px;
+    }
+    .card-body figure {
+      
+      
+        height: 424px;
+      
+    }
+    blockquote.blockquote p {
+      
+        font-size: 20px;
+        line-height: 28px;
+        margin-top: 33px;
+    }
+
+    .blockquote-footer h4 {
+        font-size: 18px;
+        margin-top: -44px;
+        line-height: 20px;
+    }
+    figcaption.blockquote-footer p {
+        line-height: 13px;
+     
+        font-size: 14px;
+       
+    }
+    .footer-logo-area {
+        text-align: center;
+    }
+    .footer-logo-text {
+        margin-right: 0px; 
+   
+       
+        text-align: center;
+    }
+    .social-area {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .hide-lg {
+        display: none;
+    }
+
+    .header-button-area {
+        width: 29%;
+        margin-left: 260px;
+    }
+    .single-profile-box {
+       
+        margin-bottom: 40px;
+    }
+    .earning-calculator .section-title {
+        margin-top: 0px; 
+    }
+    .brand-logo img {
+        width: 20px !important;
+        height: 20px !important;
+        margin: 0 4px;
+    }
+    .model-catagory span {
+        padding: 2px 8px;
+      
+    }
+    .work-info h3 {
+        font-size: 13px;
+    }
+    p.more {
+       
+        margin: 12px  0;
+        width: 20px;
+        height: 20px;
+      
+    }
+  
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .navbar .nav-item:hover .dropdown-menu{ 
+        display: block; 
+      
+      }
+      .hide-lg {
+        display: none;
+    }
+
+   
+    
+ }
+
+
+ /* Extra-Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1299.98px) { 
+ 
+    .navbar .nav-item:hover .dropdown-menu{ 
+        display: block; 
+      
+      }
+      .hide-lg {
+        display: none;
+    }
+
+
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1300px) {
+    
+    
+
+    
+    .navbar .nav-item:hover .dropdown-menu{ 
+        display: block; 
+      
+      }
+      .hide-lg {
+        display: none;
+    }
+
+
+    
+
+}
